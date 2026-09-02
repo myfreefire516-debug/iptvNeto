@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Desporto" logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest?cb=20231020154416" audio-track="PT" aspect-ratio="16:9" tvg-country="PT", Sport tv 1
+http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9079.ts
+#EXTINF:0 type="stream" channelId="-1" group="Desporto" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_(2023).svg/3840px-Sport_TV2_(2023).svg.png" audio-track="PT" aspect-ratio="16:9" tvg-country="PT", Sport tv 2
+http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9077.ts
