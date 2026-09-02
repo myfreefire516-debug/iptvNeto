@@ -1,67 +1,67 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest?cb=20231020154416" aspect-ratio="16:9" tvg-country="PT",Sport TV 1 FHD
+#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV1_(2023).svg" aspect-ratio="16:9" tvg-country="PT", Sport TV 1 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9079.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Sporttv-2.svg/revision/latest?cb=20231020154416" aspect-ratio="16:9" tvg-country="PT",Sport TV 2 FHD
+#EXTINF:0 type="stream" channelId="-2" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV2_(2023).svg" aspect-ratio="16:9" tvg-country="PT", Sport TV 2 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9077.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Sporttv-3.svg/revision/latest?cb=20231020154416" aspect-ratio="16:9" tvg-country="PT",Sport TV 3 FHD
+#EXTINF:0 type="stream" channelId="-3" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV3_(2023).svg" aspect-ratio="16:9" tvg-country="PT", Sport TV 3 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9075.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Sporttv-4.svg/revision/latest?cb=20231020154416" aspect-ratio="16:9" tvg-country="PT",Sport TV 4
+#EXTINF:0 type="stream" channelId="-4" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV4_(2023).svg" aspect-ratio="16:9" tvg-country="PT", Sport TV 4
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9074.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sporttv-5.svg/revision/latest?cb=20231020154416" aspect-ratio="16:9" tvg-country="PT",Sport TV 5 FHD
+#EXTINF:0 type="stream" channelId="-5" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV5_(2023).svg" aspect-ratio="16:9" tvg-country="PT", Sport TV 5 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/1870618.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Sporttv-6.svg/revision/latest?cb=20231020154416" aspect-ratio="16:9" tvg-country="PT",Sport TV 6 FHD
+#EXTINF:0 type="stream" channelId="-6" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV6_(2023).svg" aspect-ratio="16:9" tvg-country="PT", Sport TV 6 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/1870621.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Sporttv-7.svg/revision/latest?cb=20241020154416" aspect-ratio="16:9" tvg-country="PT",Sport TV 7 FHD
+#EXTINF:0 type="stream" channelId="-7" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV7_(2023).svg" aspect-ratio="16:9" tvg-country="PT", Sport TV 7 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/1870624.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT",DAZN ELEVEN 1 FHD
+#EXTINF:0 type="stream" channelId="-8" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT", DAZN ELEVEN 1 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459358.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT",DAZN ELEVEN 2 FHD
+#EXTINF:0 type="stream" channelId="-9" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT", DAZN ELEVEN 2 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459359.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT",DAZN ELEVEN 3 FHD
+#EXTINF:0 type="stream" channelId="-10" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT", DAZN ELEVEN 3 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459363.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT",DAZN ELEVEN 4 FHD
+#EXTINF:0 type="stream" channelId="-11" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT", DAZN ELEVEN 4 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459362.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT",DAZN ELEVEN 5 FHD
+#EXTINF:0 type="stream" channelId="-12" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT", DAZN ELEVEN 5 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459361.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT",DAZN ELEVEN 6 FHD
+#EXTINF:0 type="stream" channelId="-13" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/DAZN11.png" aspect-ratio="16:9" tvg-country="PT", DAZN ELEVEN 6 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459360.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo_SportTV.svg" aspect-ratio="16:9" tvg-country="PT",SS MAXIMO 1
+#EXTINF:0 type="stream" channelId="-14" group="DESPORTO" logo="https://commons.wikimedia.org/wiki/Special:FilePath/SS_Maximo.svg" aspect-ratio="16:9" tvg-country="PT", SS MAXIMO 1
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/1853695.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="INFANTIL" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Disney_Channel_2022_logo.svg" aspect-ratio="16:9" tvg-country="PT",Disney Channel PT
+#EXTINF:0 type="stream" channelId="-15" group="INFANTIL" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Disney_Channel_2002_logo.svg" aspect-ratio="16:9" tvg-country="PT", Disney Channel PT
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9133.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/AXN_logo.svg" aspect-ratio="16:9" tvg-country="PT",AXN UHD
+#EXTINF:0 type="stream" channelId="-16" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/AXN_logo.svg" aspect-ratio="16:9" tvg-country="PT", AXN UHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/156907.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/TVCine_logo.svg" aspect-ratio="16:9" tvg-country="PT",TVCINE ACTION
+#EXTINF:0 type="stream" channelId="-17" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/TVCine_Action_logo.svg" aspect-ratio="16:9" tvg-country="PT", TVCINE ACTION
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9055.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/TVCine_logo.svg" aspect-ratio="16:9" tvg-country="PT",TVCINE TOP
+#EXTINF:0 type="stream" channelId="-18" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/TVCine_Top_logo.svg" aspect-ratio="16:9" tvg-country="PT", TVCINE TOP
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9057.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cine_Mundo_logo.svg" aspect-ratio="16:9" tvg-country="PT",CINE MUNDO
+#EXTINF:0 type="stream" channelId="-19" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cine_Mundo_logo.svg" aspect-ratio="16:9" tvg-country="PT", CINE MUNDO
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9137.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Fox_Comedy_logo.svg" aspect-ratio="16:9" tvg-country="PT",FOX COMEDY
+#EXTINF:0 type="stream" channelId="-20" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Fox_Comedy_logo.svg" aspect-ratio="16:9" tvg-country="PT", FOX COMEDY
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9118.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Telecine_logo.svg" aspect-ratio="16:9" tvg-country="PT",TELECINE PREMIUM
+#EXTINF:0 type="stream" channelId="-21" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Telecine_Premium_logo.svg" aspect-ratio="16:9" tvg-country="PT", TELECINE PREMIUM
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/28918.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Telecine_logo.svg" aspect-ratio="16:9" tvg-country="PT",TELECINE FUN
+#EXTINF:0 type="stream" channelId="-22" group="CINEMA" logo="https://commons.wikimedia.org/wiki/Special:FilePath/Telecine_Fun_logo.svg" aspect-ratio="16:9" tvg-country="PT", TELECINE FUN
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/28920.ts
