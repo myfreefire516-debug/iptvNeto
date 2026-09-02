@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT TV 1 FHD, group-tittle="Desporto"
+#EXTINF:-1 group-tittle="Desporto" ,SPORT TV 1 FHD, group-tittle="Desporto"
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9079.ts
 
 #EXTINF:-1,SPORT TV 2 FHD,group-tittle="Desporto"
