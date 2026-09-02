@@ -1,67 +1,67 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DESPORTO",SPORT TV 1 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="SPORT TV 1 FHD",SPORT TV 1 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9079.ts
 
-#EXTINF:-1 group-title="DESPORTO",SPORT TV 2 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="SPORT TV 2 FHD",SPORT TV 2 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9077.ts
 
-#EXTINF:-1 group-title="DESPORTO",SPORT TV 3 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="SPORT TV 3 FHD",SPORT TV 3 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9075.ts
 
-#EXTINF:-1 group-title="DESPORTO",SPORT TV 4
+#EXTINF:-1 group-title="DESPORTO" tvg-name="SPORT TV 4",SPORT TV 4
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9074.ts
 
-#EXTINF:-1 group-title="DESPORTO",SPORT TV 5 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="SPORT TV 5 FHD",SPORT TV 5 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/1870618.ts
 
-#EXTINF:-1 group-title="DESPORTO",SPORT TV 6 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="SPORT TV 6 FHD",SPORT TV 6 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/1870621.ts
 
-#EXTINF:-1 group-title="DESPORTO",SPORT TV 7 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="SPORT TV 7 FHD",SPORT TV 7 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/1870624.ts
 
-#EXTINF:-1 group-title="DESPORTO",DAZN ELEVEN 1 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="DAZN ELEVEN 1 FHD",DAZN ELEVEN 1 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459358.ts
 
-#EXTINF:-1 group-title="DESPORTO",DAZN ELEVEN 2 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="DAZN ELEVEN 2 FHD",DAZN ELEVEN 2 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459359.ts
 
-#EXTINF:-1 group-title="DESPORTO",DAZN ELEVEN 3 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="DAZN ELEVEN 3 FHD",DAZN ELEVEN 3 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459363.ts
 
-#EXTINF:-1 group-title="DESPORTO",DAZN ELEVEN 4 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="DAZN ELEVEN 4 FHD",DAZN ELEVEN 4 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459362.ts
 
-#EXTINF:-1 group-title="DESPORTO",DAZN ELEVEN 5 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="DAZN ELEVEN 5 FHD",DAZN ELEVEN 5 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459361.ts
 
-#EXTINF:-1 group-title="DESPORTO",DAZN ELEVEN 6 FHD
+#EXTINF:-1 group-title="DESPORTO" tvg-name="DAZN ELEVEN 6 FHD",DAZN ELEVEN 6 FHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/459360.ts
 
-#EXTINF:-1 group-title="DESPORTO",SS MAXIMO 1
+#EXTINF:-1 group-title="DESPORTO" tvg-name="SS MAXIMO 1",SS MAXIMO 1
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/1853695.ts
 
-#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL PT
+#EXTINF:-1 group-title="INFANTIL" tvg-name="DISNEY CHANNEL PT",DISNEY CHANNEL PT
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9133.ts
 
-#EXTINF:-1 group-title="CINEMA",AXN UHD
+#EXTINF:-1 group-title="CINEMA" tvg-name="AXN UHD",AXN UHD
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/156907.ts
 
-#EXTINF:-1 group-title="CINEMA",TVCINE ACTION
+#EXTINF:-1 group-title="CINEMA" tvg-name="TVCINE ACTION",TVCINE ACTION
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9055.ts
 
-#EXTINF:-1 group-title="CINEMA",TVCINE TOP
+#EXTINF:-1 group-title="CINEMA" tvg-name="TVCINE TOP",TVCINE TOP
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9057.ts
 
-#EXTINF:-1 group-title="CINEMA",CINE MUNDO
+#EXTINF:-1 group-title="CINEMA" tvg-name="CINE MUNDO",CINE MUNDO
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9137.ts
 
-#EXTINF:-1 group-title="CINEMA",FOX COMEDY
+#EXTINF:-1 group-title="CINEMA" tvg-name="FOX COMEDY",FOX COMEDY
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/9118.ts
 
-#EXTINF:-1 group-title="CINEMA",TELECINE PREMIUM
+#EXTINF:-1 group-title="CINEMA" tvg-name="TELECINE PREMIUM",TELECINE PREMIUM
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/28918.ts
 
-#EXTINF:-1 group-title="CINEMA",TELECINE FUN
+#EXTINF:-1 group-title="CINEMA" tvg-name="TELECINE FUN",TELECINE FUN
 http://line.megastreamlivetv.com:80/live/50r3erpjf4/n14a1r4mxo/28920.ts
